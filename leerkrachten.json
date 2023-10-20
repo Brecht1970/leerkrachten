@@ -1,4 +1,5 @@
-[     
+{
+    "results": [
         {
             "userId": 1,
             "name": "Ameel, Brecht"
@@ -91,4 +92,5 @@
             "userId": 23,
             "name": "Bonnarens, Davy"
         }
-]
+    ]
+}
