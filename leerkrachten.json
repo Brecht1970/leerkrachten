@@ -1,5 +1,4 @@
-{
-     [
+   [
         {
             userId: 1,
             name: "Ameel, Brecht"
@@ -193,4 +192,3 @@
             name: "Willems, Machteld"
         }
     ]
-}
